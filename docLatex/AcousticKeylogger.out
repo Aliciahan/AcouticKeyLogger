@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Password and Related Security Issues }{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Acoustic Side Channel Attack}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Related Works Overview}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Asonov and Agrawal}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Zhuang et. al}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Cepstrum features extraction}{subsection.2.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Unsupervised key recognition}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Spelling and Grammar Checking}{subsection.2.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Feedback based training}{subsection.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.3}{Berger et al.}{section.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Signal Processing}{subsection.2.3}% 12
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Keystroke Processing}{subsection.2.3}% 13
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Constraint Formulation}{subsection.2.3}% 14
+\BOOKMARK [3][-]{subsubsection.2.3.4}{Constraint Evaluation}{subsection.2.3}% 15
+\BOOKMARK [3][-]{subsubsection.2.3.5}{Dealing with False Constraints}{subsection.2.3}% 16
+\BOOKMARK [3][-]{subsubsection.2.3.6}{Outcome Prioritization}{subsection.2.3}% 17
+\BOOKMARK [2][-]{subsection.2.4}{Halevi and Saxena}{section.2}% 18
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Time-frequency Classification}{subsection.2.4}% 19
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Typing styles}{subsection.2.4}% 20
+\BOOKMARK [2][-]{subsection.2.5}{Fiona}{section.2}% 21
+\BOOKMARK [3][-]{subsubsection.2.5.1}{Hypothesis}{subsection.2.5}% 22
+\BOOKMARK [3][-]{subsubsection.2.5.2}{Compare Technologies}{subsection.2.5}% 23
+\BOOKMARK [3][-]{subsubsection.2.5.3}{Attack Processes Overview}{subsection.2.5}% 24
+\BOOKMARK [1][-]{section.3}{Experiment Design}{}% 25
+\BOOKMARK [2][-]{subsection.3.1}{Overview of Technologies}{section.3}% 26
+\BOOKMARK [2][-]{subsection.3.2}{Environment Setup}{section.3}% 27
+\BOOKMARK [2][-]{subsection.3.3}{Experiment Process}{section.3}% 28
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Record the Signals}{subsection.3.3}% 29
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Process the Signals}{subsection.3.3}% 30
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Classify the Signals}{subsection.3.3}% 31
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 32

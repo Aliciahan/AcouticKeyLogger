@@ -1,0 +1,33 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Password and Related Security Issues }{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Acoustic Side Channel Attack}{4}{subsection.1.2}
+\contentsline {section}{\numberline {2}Related Works Overview}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Asonov and Agrawal}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Zhuang et. al}{6}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Cepstrum features extraction}{8}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Unsupervised key recognition}{8}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Spelling and Grammar Checking}{9}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Feedback based training}{9}{subsubsection.2.2.4}
+\contentsline {subsection}{\numberline {2.3}Berger et al.}{9}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Signal Processing}{9}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Keystroke Processing}{9}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Constraint Formulation}{10}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}Constraint Evaluation}{11}{subsubsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.5}Dealing with False Constraints}{11}{subsubsection.2.3.5}
+\contentsline {subsubsection}{\numberline {2.3.6}Outcome Prioritization}{11}{subsubsection.2.3.6}
+\contentsline {subsection}{\numberline {2.4}Halevi and Saxena}{11}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Time-frequency Classification}{11}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Typing styles}{14}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2.5}Fiona}{14}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Hypothesis}{14}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}Compare Technologies}{15}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.3}Attack Processes Overview}{16}{subsubsection.2.5.3}
+\contentsline {section}{\numberline {3}Experiment Design}{17}{section.3}
+\contentsline {subsection}{\numberline {3.1}Overview of Technologies}{17}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Environment Setup}{17}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Experiment Process}{19}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Record the Signals}{19}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Process the Signals}{20}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Classify the Signals}{20}{subsubsection.3.3.3}
+\contentsline {section}{\numberline {4}Conclusion}{22}{section.4}

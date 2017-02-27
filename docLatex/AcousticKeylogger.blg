@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: AcousticKeylogger.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: biblio.bib
+Repeated entry---line 313 of file biblio.bib
+ : @article{Fiona2006
+ :                   ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in Fiona2006
+
+Done.
+You've used 6 entries,
+            4087 wiz_defined-function locations,
+            881 strings with 9443 characters,
+and the built_in function-call counts, 5348 in all, are:
+= -- 423
+> -- 123
+< -- 42
++ -- 61
+- -- 20
+* -- 284
+:= -- 841
+add.period$ -- 16
+call.type$ -- 6
+change.case$ -- 12
+chr.to.int$ -- 108
+cite$ -- 7
+duplicate$ -- 356
+empty$ -- 434
+format.name$ -- 27
+if$ -- 1216
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 62
+newline$ -- 53
+num.names$ -- 12
+pop$ -- 150
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 391
+stack$ -- 0
+substring$ -- 256
+swap$ -- 285
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 6
+warning$ -- 1
+while$ -- 33
+width$ -- 7
+write$ -- 96
+(There was 1 error message)
